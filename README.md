@@ -12,7 +12,8 @@ Section 1 has an AM2320, a relay and a power supply. Besides this it has breakou
 ## Issues
 
 There are two flaws with section 1 that should be addressed: 
-
+### Board size
+### Footprint of AC-DC converter
 
 # 3D board view
 
