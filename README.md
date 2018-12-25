@@ -27,6 +27,8 @@ Either the board should be 47x47mm (3mm shorter in X and Y) or the corners shoul
 ### Footprint of AC-DC converter
 The PM03 footprint has been flipped so it does not fit in the PCB.
 
+## Virtual Ground Section
+
 # 3D board view
 
 ![](Kicad-Berker-2-Wemos-3D.png)
