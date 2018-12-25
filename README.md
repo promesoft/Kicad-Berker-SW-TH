@@ -18,6 +18,8 @@ Section 2 is similar to section 1 except it has room on the backside for a PM03 
 It is intended as a board for installing in a Berker outlet. 
 Section 2 has an AM2320, a relay and a power supply. Besides this it has breakout of pins A0 and D4.
 
+![](Section2.JPG)
+
 ## Issues
 
 There are two flaws with section 1 that should be addressed: 
