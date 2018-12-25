@@ -18,11 +18,9 @@ Section 2 is similar to section 1 except it has room on the backside for a PM03 
 It is intended as a board for installing in a Berker outlet. 
 Section 2 has an AM2320, a relay and a power supply. Besides this it has breakout of pins A0 and D4.
 
-![](Section2.JPG)
-
 ## Issues
 
-There are two flaws with section 1 that should be addressed: 
+There are two flaws with section 2 that should be addressed: 
 ### Board dimensions
 The corners of the board inhibits it from fitting into a Berker wall mount. 
 Either the board should be 47x47mm (3mm shorter in X and Y) or the corners should be milled away with a 8mm diameter drill
@@ -36,3 +34,6 @@ The PM03 footprint has been flipped so it does not fit in the PCB.
 # Shecmatic
 
 ![](Kicad-Berker-2-Wemos-Sch.png)
+
+# Section 2 
+![](Section2.JPG)
