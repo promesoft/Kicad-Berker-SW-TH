@@ -10,7 +10,7 @@ Section 1 has an AM2320, a relay and a power supply. Besides this it has breakou
 
 ## Issues
 
-There are one issue with section 1 that should be addressed is the board size. 
+There is one issue with section 1 that should be addressed in the next revision. The board size is 2mm too big in X and Y, to fit into a Berker wall mount. 
 
 ## Wemos D1 mini - section 2
 
@@ -20,7 +20,7 @@ Section 2 has an AM2320, a relay and a power supply. Besides this it has breakou
 
 ## Issues
 
-There are two flaws with section 2 that should be addressed: 
+There are two flaws with section 2 that should be addressed in the next revision: 
 ### Board dimensions
 The corners of the board inhibits it from fitting into a Berker wall mount. 
 Either the board should be 47x47mm (3mm shorter in X and Y) or the corners should be milled away with a 8mm diameter drill
