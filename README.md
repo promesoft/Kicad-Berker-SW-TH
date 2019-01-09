@@ -2,6 +2,7 @@
 Green board
 
 # Overview
+## Status - Functional with issues
 
 ## Wemos D1 mini - section 1
 
