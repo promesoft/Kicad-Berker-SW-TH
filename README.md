@@ -13,6 +13,11 @@ Section 1 has an AM2320, a relay and a power supply. Besides this it has breakou
 
 There is one issue with section 1 that should be addressed in the next revision. The board size is 2mm too big in X and Y, to fit into a Berker wall mount. 
 
+## Errata
+ - Edgecuts in Rev A is specified as 0,15mm - this should be 1mm
+ - Footprint for AC-DC is wrong
+ - Footprint for Q3 and Q4 is off
+
 ## Wemos D1 mini - section 2
 
 Section 2 is similar to section 1 except it has room on the backside for a PM03 AC-DC converter. 
