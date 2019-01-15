@@ -32,7 +32,7 @@ The PM03 footprint has been flipped so it does not fit in the PCB.
 
 # 3D board view
 
-![](Kicad-Berker-2-Wemos-3D.png)
+![](Kicad-Berker-2-Wemos-RevA-Top3D.png)
 
 # Shecmatic
 
