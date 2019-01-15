@@ -2,7 +2,8 @@
 Green board
 
 # Overview
-## Status - Functional with issues
+## Status - Rev A - Functional with issues
+Rev A done by PCBWay
 
 ## Wemos D1 mini - section 1
 
